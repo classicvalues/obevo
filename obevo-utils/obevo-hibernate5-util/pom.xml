@@ -31,7 +31,7 @@
 
     <properties>
         <jacoco.minCoverage>0.70</jacoco.minCoverage>
-        <hibernate.version>5.4.0.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
     <dependencies>
